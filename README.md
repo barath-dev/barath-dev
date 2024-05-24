@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barathwaj</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">A passionate Full Stack Flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barath-dev&label=Profile%20views&color=0e75b6&style=flat" alt="barath-dev" /> </p>
 
