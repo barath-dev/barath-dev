@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full Stack Flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barath-dev&label=Profile%20views&color=0e75b6&style=flat" alt="barath-dev" /> </p>
+<p><a href="https://wakatime.com/@20c1ad3c-c3ec-4167-b5a1-90e2e24ea9f5"><img src="https://wakatime.com/badge/user/20c1ad3c-c3ec-4167-b5a1-90e2e24ea9f5.svg" alt="Total time coded since Mar 7 2023" /></a></p>
 
 - 🔭 I’m currently working on [collide](https://www.collide.ing)
 
