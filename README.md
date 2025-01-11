@@ -11,7 +11,7 @@
 ---
 
 ### 🤖 About Me
-- 🌱 Currently learning **Advanced Backend Development and Microservices.**
+- 🌱 Currently learning **Data Structures and DevOps.**
 - 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/barath-dev)
 - 💌 Reach me at **barathwaj1153@gmail.com**
 - 🎮 Fun fact: **I enjoy exploring and contributing to open-source projects.**
@@ -63,8 +63,8 @@
 
 ### 🏆 Achievements
 - **4+ Years of Coding Experience.**
-- **Consistent Open Source Contributor.**
-- **Developed and Deployed 10+ Flutter Apps.**
+- **Building one app every month.**
+- **Developed and Deployed 15+ Flutter Apps.**
 
 ---
 
