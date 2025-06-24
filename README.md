@@ -1,83 +1,131 @@
-<!-- Header Section with yellow background -->
-<div style="background-color: #ffcc00; padding: 10px 0; border-radius: 8px;">
-  <!-- Profile Views Badge -->
-  <img align="right" src="https://komarev.com/ghpvc/?username=barath-dev&label=Profile%20views&color=0e75b6&style=flat" alt="barath-dev" />
+# <div align="center">👋 Hey there! I'm Barathwaj K</div>
+
+<div align="center">
   
-  <!-- WakaTime Badge (Optional: This badge is kept if you want to show total time coded) -->
-  <a href="https://wakatime.com/@20c1ad3c-c3ec-4167-b5a1-90e2e24ea9f5" target="_blank">
-    <img align="right" src="https://wakatime.com/badge/user/20c1ad3c-c3ec-4167-b5a1-90e2e24ea9f5.svg" alt="WakaTime Badge" style="margin-right: 10px;" />
-  </a>
+  <!-- Animated Typing -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full+Stack+Developer;Backend+Specialist;Problem+Solver;Tech+Enthusiast!" />
   
-  <!-- Animated "Hello there" -->
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Barathwaj!;" alt="Typing SVG" />
-  </h1>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=barath-dev&label=Profile%20views&color=0e75b6&style=flat" alt="barath-dev" />
   
-  <!-- WakaTime Stats placed directly below the hello message -->
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=barathwaj1153&theme=radical" alt="WakaTime Stats" width="60%" />
-  </div>
-</div>
-
-<h3 align="center">A Passionate Full Stack Flutter Developer from India</h3>
-
-<div align="center">
-  <p>
-    🌱 Currently learning <strong>Data Structures and DevOps</strong><br/>
-    👨‍💻 Explore my projects on <a href="https://github.com/barath-dev" target="_blank">GitHub</a><br/>
-    💌 Contact: <strong>barathwaj1153@gmail.com</strong><br/>
-    🎮 Fun Fact: <strong>I enjoy exploring and contributing to open-source projects</strong>
-  </p>
 </div>
 
 ---
 
-### 🌐 Connect with Me
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- 🎓 **Computer Science Student** at Lovely Professional University (CGPA: 8.06/10)
+- 💼 **Full Stack Developer** at Kartavya Technology (May 2024 - Dec 2024)
+- 🌱 Currently mastering **Advanced System Design** and **Cloud Architecture**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/barath-dev)
+- 💬 Ask me about **Node.js, TypeScript, PostgreSQL, System Design**
+- 📫 How to reach me: **barathwaj1153@gmail.com**
+- ⚡ Fun fact: **I optimize databases for breakfast and build scalable APIs for lunch!**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
 <div align="center">
-  <a href="https://www.linkedin.com/in/barathwaj-k" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/barathwaj.k" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,python" />
+</div>
+
+### 🚀 Backend & Frameworks
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio" />
+</div>
+
+### 🗄️ Databases & Cloud
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,aws,docker" />
+</div>
+
+### 🔧 Development Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 </div>
 
 ---
 
-### ⚒️ Languages, Frameworks & Tools
-<div align="center">
-  <!-- Tech icons via skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,nodejs,python,mongodb,mysql,git" alt="Tech Stack" />
-</div>
+## 🏆 Professional Experience
+
+### 💼 Full Stack Developer | Kartavya Technology
+**May 2024 - Dec 2024**
+
+- 🎯 **Impact**: Served **1000+ daily users** with **99.9% uptime**
+- ⚡ **Performance**: Achieved **40% improvement** in database query execution
+- 🔄 **Real-time**: Implemented Socket.IO for live data synchronization
+- 🏗️ **Architecture**: Built scalable microservices with Node.js & TypeScript
 
 ---
 
-### 🐍 My Contributions
-<div align="center">
-  <!-- Ensure you have the snake SVG generated via GitHub Actions or similar -->
-  <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/barath-dev/barath-dev/output/github-contribution-grid-snake.svg" />
-</div>
+## 📊 GitHub Analytics
 
----
-
-### ⚡ GitHub Stats
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=barath-dev&theme=radical" alt="GitHub Streak" />
-  <!-- GitHub Stats Card -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=barath-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=barath-dev&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=barath-dev&theme=radical&hide_border=true" />
+  
   <br/>
-  <!-- Top Languages -->
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barath-dev&layout=compact&theme=radical" alt="Top Languages" />
+  
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barath-dev&layout=compact&theme=radical&hide_border=true" />
+  
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barathwaj-k-80a3111b4/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barath-dev)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barathwaj1153@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.vercel.app)
+  
 </div>
 
 ---
 
-### 🏆 Achievements
+## 📈 Contribution Graph
+
 <div align="center">
-  <ul>
-    <li><strong>4+ Years of Coding Experience</strong></li>
-    <li><strong>Building one app every month</strong></li>
-    <li><strong>Developed and Deployed 15+ Flutter Apps</strong></li>
-  </ul>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=barath-dev&bg_color=0d1117&color=708090&line=24bcd4&point=ffdf00&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 💡 What I'm Working On
+
+<div align="center">
+
+🔭 **Currently Building**: Next-generation microservices architecture
+
+🌱 **Learning**: Advanced System Design & Cloud-Native Technologies
+
+👯 **Looking to collaborate on**: Open-source backend projects & scalable applications
+
+🤔 **Seeking help with**: Advanced DevOps practices & Kubernetes
+
+💬 **Ask me about**: Node.js, TypeScript, PostgreSQL, System Design, API Architecture
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🎯 "Turning complex problems into elegant solutions, one line of code at a time"
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  
+  ---
+  
+  **⭐ Star my repositories if you find them useful!**
+  
+  <img src="https://raw.githubusercontent.com/barath-dev/barath-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
 </div>
