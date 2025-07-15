@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🎓 **Computer Science Student** at Lovely Professional University (CGPA: 8.06/10)
+- 🎓 **Computer Science Student** at Lovely Professional University (CGPA: 8.11/10)
 - 💼 **Full Stack Developer** at Kartavya Technology (May 2024 - Dec 2024)
 - 🌱 Currently mastering **Advanced System Design** and **Cloud Architecture**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/barath-dev)
